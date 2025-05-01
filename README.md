@@ -116,14 +116,6 @@ describe("Login Test", () => {
 
 ---
 
-## 📊 Generate Reports
-
-```bash
-npx allure generate reports/allure-results --clean
-npx allure open
-```
-
----
 
 ## 📘 Resources
 
